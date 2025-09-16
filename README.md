@@ -3,8 +3,11 @@
 Olá, eu sou Geovane Allen!
 Sou um desenvolvedor front-end apaixonado por tecnologia e pelo impacto que o desenvolvimento pode causar na experiência dos usuários. Minha missão é transformar ideias em interfaces modernas, responsivas e intuitivas, criando experiências únicas para cada projeto.
 
-Com habilidades em <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" align="center"/> , <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" align="center"/> e <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" align="center"/>
-, venho desenvolvendo projetos que unem design, performance e acessibilidade, sempre buscando inovação e aprimoramento contínuo. Acredito que cada linha de código deve proporcionar não apenas funcionalidade, mas também uma navegação fluida e envolvente.
+Com habilidades em:
+ - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" align="center"/>
+ - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" align="center"/>
+ - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" align="center"/>
+ Venho desenvolvendo projetos que unem design, performance e acessibilidade, sempre buscando inovação e aprimoramento contínuo. Acredito que cada linha de código deve proporcionar não apenas funcionalidade, mas também uma navegação fluida e envolvente.
   
 
 ## Conecte-se comigo:
